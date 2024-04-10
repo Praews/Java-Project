@@ -19,3 +19,7 @@ java Main
 ```
 nodemon --exec "javac Main.java && java Main"
 ```
+
+## Contributors
+[PuemMTH](https://github.com/PuemMTH)
+[Praews](https://github.com/Praews)
