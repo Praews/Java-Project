@@ -140,7 +140,7 @@ public class SentimentAnalysisGUI extends JFrame {
         });
     }
 
-    protected void clearTextArea() {
+    public void clearTextArea() {
         textArea.setText("");
     }
 
